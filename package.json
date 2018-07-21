@@ -1,0 +1,15 @@
+{
+  "name": "palindrome-checker",
+  "version": "1.0.0",
+  "description": "Palindrome checker algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "freeCodeCamp"
+  ],
+  "author": "Jesus Ordosgoitty",
+  "license": "MIT"
+}
